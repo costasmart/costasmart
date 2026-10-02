@@ -10,6 +10,14 @@ body {
     color: #F8FAFC;
 }
 
+/*Fundo branco na logo do topo*/
+#logo_topo {
+    background-color: #F8FAFC;
+    border-radius: 5px;
+    padding: 0;
+    margin: 0;
+}
+
 /* Transição suave para o fundo do carrossel na seção Hero */
 .hero-carousel {
     background-size: cover;
